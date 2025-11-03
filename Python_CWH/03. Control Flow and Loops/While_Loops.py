@@ -1,0 +1,19 @@
+# while Loops in Python
+# print(1)
+# print(2)
+# print(3)
+# print(4)
+# print(5)
+# print(6)
+
+i = 1
+while i<6:
+    print(i)
+    i = i + 1
+
+
+#Infinite Loops
+# i = 1
+# while True:
+#     print(i)
+#     i = i + 1
