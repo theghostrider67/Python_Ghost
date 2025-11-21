@@ -1,7 +1,12 @@
-f = open("read.txt", "r")
+try:
+    f = open("Read.txt", "r")
+    content = f.read()
+    print(content)
+    f.close()
 
-content = f.read()
+except FileNotFoundError:
+    print("File not found.")
 
-print(content)
 
-f.close()
+
+
