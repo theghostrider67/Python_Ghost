@@ -1,0 +1,5 @@
+Ghost is a very nice guy. He lives in Milan and he works with.
+His favourite is numpy
+He is a ghost
+
+Ghost is a CSE student at AIUB
